@@ -1,0 +1,6 @@
+D:\VSSource\WordSimilarityP\WordSimilarity\bin\Debug\WordSimilarity.dll
+D:\VSSource\WordSimilarityP\WordSimilarity\bin\Debug\WordSimilarity.pdb
+D:\VSSource\WordSimilarityP\WordSimilarity\bin\Debug\Lucene.Net.dll
+D:\VSSource\WordSimilarityP\WordSimilarity\obj\Debug\WordSimilarity.dll
+D:\VSSource\WordSimilarityP\WordSimilarity\obj\Debug\WordSimilarity.pdb
+D:\VSSource\WordSimilarityP\WordSimilarity\obj\Debug\WordSimilarity.csprojResolveAssemblyReference.cache

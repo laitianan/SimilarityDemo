@@ -4,17 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BFFD5C50-C145-473A-B88A-9F82839DDE0D}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{B5D206EC-D1E7-4E37-A761-8ADB49D88E20}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WordSimilarityP</RootNamespace>
-    <AssemblyName>WordSimilarityP</AssemblyName>
+    <RootNamespace>WordSimilarity</RootNamespace>
+    <AssemblyName>WordSimilarity</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,10 +20,8 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Debug\WordSimilarityP.XML</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -35,7 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Lucene.Net">
-      <HintPath>..\package\Lucene.Net.dll</HintPath>
+      <HintPath>..\WordSimilarityP\package\Lucene.Net.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -47,24 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="AnnlyzerWord.cs" />
+    <Compile Include="PatterSpec.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="PanGu.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\LSH\LSH.csproj">
-      <Project>{e1dd3f93-2dd2-46b3-8860-c402686e0b4f}</Project>
-      <Name>LSH</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\WordSimilarity\WordSimilarity.csproj">
-      <Project>{b5d206ec-d1e7-4e37-a761-8adb49d88e20}</Project>
-      <Name>WordSimilarity</Name>
-    </ProjectReference>
+    <Compile Include="UnitConversion.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

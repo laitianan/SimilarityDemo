@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("WordSimilarityP")]
+[assembly: AssemblyTitle("WordSimilarity")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WordSimilarityP")]
+[assembly: AssemblyProduct("WordSimilarity")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("bffd5c50-c145-473a-b88a-9f82839dde0d")]
+[assembly: Guid("b5d206ec-d1e7-4e37-a761-8adb49d88e20")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
