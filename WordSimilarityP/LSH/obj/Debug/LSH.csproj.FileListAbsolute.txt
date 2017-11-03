@@ -1,0 +1,5 @@
+D:\VSSource\WordSimilarityP\LSH\bin\Debug\LSH.dll
+D:\VSSource\WordSimilarityP\LSH\bin\Debug\LSH.pdb
+D:\VSSource\WordSimilarityP\LSH\obj\Debug\LSH.csprojResolveAssemblyReference.cache
+D:\VSSource\WordSimilarityP\LSH\obj\Debug\LSH.dll
+D:\VSSource\WordSimilarityP\LSH\obj\Debug\LSH.pdb

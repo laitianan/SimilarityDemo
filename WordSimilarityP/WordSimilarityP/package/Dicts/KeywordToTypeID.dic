@@ -1,0 +1,162 @@
+﻿cpu	+TypeIDs:1013
+dvd播放机	+TypeIDs:1472
+mp3配件	+TypeIDs:1880
+mp4	+TypeIDs:1066
+raid卡	+TypeIDs:1144
+scsi卡	+TypeIDs:1144
+sd卡	+TypeIDs:1075
+shouji	+TypeIDs:1046
+tf卡	+tf +TypeIDs:1075
+ups电源	+TypeIDs:1846
+u盘	+TypeIDs:1065
+u盘32g	+u盘32g +TypeIDs:1065
+笔记本	+TypeIDs:1002
+笔记本电池	+TypeIDs:1149
+标准配件	+TypeIDs:1011
+冰箱	+TypeIDs:1451
+彩电	+TypeIDs:1452
+充电器	+TypeIDs:1081
+抽油烟机	+TypeIDs:1456
+厨房电器	+TypeIDs:1448
+存储卡	+TypeIDs:1075
+大家电	+TypeIDs:1446
+电饼铛	+TypeIDs:1528
+电池	+TypeIDs:1080
+电吹风	+TypeIDs:1510
+电磁炉	+TypeIDs:1523
+电饭煲	+TypeIDs:1518
+电风扇	+TypeIDs:1509
+电烤箱	+TypeIDs:1538
+电脑	+TypeIDs:1001
+电脑工具	+TypeIDs:1848
+电脑网络	+TypeIDs:1000
+电脑整机	+TypeIDs:1001
+电视挂架	+电视挂架 +TypeIDs:1453
+电视机	+TypeIDs:1452
+电视卡	+TypeIDs:1143
+电水壶	+TypeIDs:1521
+电压力锅	+TypeIDs:1516
+电熨斗	+TypeIDs:1504
+电子词典	+TypeIDs:1064
+电子教育	+TypeIDs:1876
+电子书	+TypeIDs:1168
+豆浆机	+TypeIDs:1513
+读卡器	+TypeIDs:1074
+对讲机	+TypeIDs:1853
+耳机	+TypeIDs:1073
+耳机耳麦	+耳机 +TypeIDs:(1073 OR 1857 OR 1072 OR 1848)
+耳麦	+TypeIDs:1073
+方向盘	+TypeIDs:1141
+服务器	+TypeIDs:1004
+干衣机	+TypeIDs:1502
+挂烫机	+TypeIDs:1496
+光驱	+TypeIDs:1018
+光驱盒	+TypeIDs:1148
+机箱	+TypeIDs:1017
+加湿器	+TypeIDs:1480
+家电配件	+TypeIDs:1453
+家庭影院	+TypeIDs:1468
+家用电器	+TypeIDs:1440
+煎烤机	+TypeIDs:1528
+健康电器	+TypeIDs:1449
+键盘	+TypeIDs:1170
+键鼠套装	+TypeIDs:1843
+交换机	+TypeIDs:1129
+金士顿	+金士顿 +TypeIDs:(1012 OR 1011 OR 1026 OR 1059 OR 1006 OR 1440)
+金士顿u盘	+金士顿u盘 +TypeIDs:1065
+净化器	+TypeIDs:1482
+净水设备	+TypeIDs:1489
+咖啡机	+TypeIDs:1537
+刻录机	+TypeIDs:1018
+空调	+TypeIDs:1450
+空调扇	+TypeIDs:1508
+酷比魔方	+酷比魔方 +TypeIDs:(1000 OR 1008)
+扩展配件	+TypeIDs:1026
+蓝牙耳机	+TypeIDs:1854
+雷柏	+雷柏 +TypeIDs:(1170 OR 1825)
+录音笔	+录音笔 +TypeIDs:1070
+路由器	+TypeIDs:1131
+迷你投影仪	+TypeIDs:1590
+面包机	+TypeIDs:1536
+内存	+TypeIDs:1015
+品胜	+品胜 +TypeIDs:(1856 OR 1859 OR 1858 OR 1855)
+平板电脑	+TypeIDs:1842
+苹果配件	+TypeIDs:1881
+普通耳机	+TypeIDs:(1857 OR 1073)
+清洁机	+TypeIDs:1505
+取暖电器	+TypeIDs:1477
+燃气灶	+TypeIDs:1456
+热水器	+TypeIDs:1454
+三角架	+TypeIDs:1083
+三星手机	+三星 +TypeIDs:1046
+散热器	+TypeIDs:1849
+闪光灯	+TypeIDs:1082
+摄像机	+TypeIDs:1063
+摄像头	+TypeIDs:1851
+生活电器	+TypeIDs:1447
+声卡	+TypeIDs:1022
+视频采集卡	+TypeIDs:1145
+收音机	+TypeIDs:1500
+手柄	+TypeIDs:1138
+手机	+TypeIDs:1046
+手机充电器	+TypeIDs:1856
+手机电池	+TypeIDs:1855
+手机耳机	+TypeIDs:1857
+手机配件	+TypeIDs:1859
+手机三星	+三星 +TypeIDs:1046
+手机饰品	+TypeIDs:1858
+手机数据线	+TypeIDs:1859
+手机贴膜	+手机贴膜  +TypeIDs:1878
+手机通讯	+TypeIDs:1006
+鼠标	+TypeIDs:1825
+鼠标垫	+TypeIDs:1845
+数据线	+数据线 +TypeIDs:(1847 OR 1852 OR 1825 OR 1022 OR 1130 OR 1846 OR 1142)
+数码伴侣	+TypeIDs:1076
+数码包	+TypeIDs:1078
+数码播放器	+TypeIDs:1066
+数码产品	+TypeIDs:1058
+数码录音笔	+TypeIDs:1070
+数码配件	+TypeIDs:1059
+数码贴膜	+TypeIDs:1878
+数码相机	+TypeIDs:1061
+数码相框	+TypeIDs:1171
+双飞燕	+双飞燕 +TypeIDs:1000
+酸奶机	+TypeIDs:1535
+台式机	+TypeIDs:1003
+腾达	+腾达 +TypeIDs:1000
+贴膜	+贴膜 +TypeIDs:1878
+网卡	+TypeIDs:1130
+网络配件	+TypeIDs:1137
+网络设备	+TypeIDs:1012
+网线	+TypeIDs:1847
+微波炉	+TypeIDs:1514
+微星	+微星 +TypeIDs:1000
+无线接入器	+TypeIDs:1133
+无线上网卡	+TypeIDs:1136
+无线鼠标	+TypeIDs:1825
+无线网卡	+无线网卡 +TypeIDs:1130
+吸尘器	+TypeIDs:1486
+洗碗机	+TypeIDs:1457
+洗衣机	+TypeIDs:1455
+显卡	+TypeIDs:1021
+显示屏	+TypeIDs:1027
+显示器	+TypeIDs:1027
+线缆	+TypeIDs:1847
+相机镜头	+TypeIDs:1877
+消毒柜	+TypeIDs:1457
+液晶显示器	+TypeIDs:1027
+一体机	+TypeIDs:2128
+移动u盘	+TypeIDs:1065
+移动电源	+移动电源 +TypeIDs:(1011 OR 1059)
+移动硬盘	+TypeIDs:1068
+音箱	+TypeIDs:1020
+饮水机	+TypeIDs:1492
+游戏杆	+TypeIDs:1139
+游戏机	+TypeIDs:1140
+游戏设备	+TypeIDs:1128
+榨汁机	+TypeIDs:1531
+主板	+TypeIDs:1016
+煮蛋器	+TypeIDs:1533
+转接卡	+TypeIDs:1146
+mate2	("mate 2" OR mate2 OR mt2 ) +TypeIDs:1006
+mate7	("mate 7" OR mate7 OR mt7 ) +TypeIDs:1006

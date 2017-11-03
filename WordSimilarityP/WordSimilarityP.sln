@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSimilarityP", "WordSimilarityP\WordSimilarityP.csproj", "{BFFD5C50-C145-473A-B88A-9F82839DDE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSimilarity", "WordSimilarity\WordSimilarity.csproj", "{B5D206EC-D1E7-4E37-A761-8ADB49D88E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beyebe.TianHong.Console.JD", "..\Beyebe.TianHong.Console.JD(1)\Beyebe.TianHong.Console.JD\Beyebe.TianHong.Console.JD.csproj", "{49873B15-A8A7-4F16-AFF5-595327247B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSH", "LSH\LSH.csproj", "{E1DD3F93-2DD2-46B3-8860-C402686E0B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFFD5C50-C145-473A-B88A-9F82839DDE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFD5C50-C145-473A-B88A-9F82839DDE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFD5C50-C145-473A-B88A-9F82839DDE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFD5C50-C145-473A-B88A-9F82839DDE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D206EC-D1E7-4E37-A761-8ADB49D88E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D206EC-D1E7-4E37-A761-8ADB49D88E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D206EC-D1E7-4E37-A761-8ADB49D88E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D206EC-D1E7-4E37-A761-8ADB49D88E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49873B15-A8A7-4F16-AFF5-595327247B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49873B15-A8A7-4F16-AFF5-595327247B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49873B15-A8A7-4F16-AFF5-595327247B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49873B15-A8A7-4F16-AFF5-595327247B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1DD3F93-2DD2-46B3-8860-C402686E0B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DD3F93-2DD2-46B3-8860-C402686E0B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1DD3F93-2DD2-46B3-8860-C402686E0B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1DD3F93-2DD2-46B3-8860-C402686E0B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.10.18:8080/tfs/beyebebigdata
+		SccProjectUniqueName0 = ..\\Beyebe.TianHong.Console.JD(1)\\Beyebe.TianHong.Console.JD\\Beyebe.TianHong.Console.JD.csproj
+		SccProjectName0 = ../Beyebe.TianHong.Console.JD(1)/Beyebe.TianHong.Console.JD
+		SccAuxPath0 = http://192.168.10.18:8080/tfs/beyebebigdata
+		SccLocalPath0 = ..\\Beyebe.TianHong.Console.JD(1)\\Beyebe.TianHong.Console.JD
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
